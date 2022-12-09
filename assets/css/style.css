@@ -1,0 +1,50 @@
+body{
+    background: rgb(137, 95, 95);
+    color: antiquewhite;
+}
+.headers{
+    color:blueviolet;
+    text-transform: uppercase;
+    font-weight: 600;
+    background-color: black;
+}
+/* HEADER */
+
+/* logo */
+a.logo{
+    font-size: 38px;
+    font-weight: bold;
+}
+
+a{
+    color: rgb(5, 23, 45);
+    text-decoration: none;
+    font-size: 26px;
+}
+
+
+/* SECTION */
+
+h1{
+    font-size: 2.5em;
+    text-transform: capitalize;
+    text-align: left;
+}
+h2{
+    text-align: center;
+}
+p{
+    color:black;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 2em;
+    font-weight: 400;
+    text-align: justify;
+    text-indent: 4em;
+}
+.btn{
+    text-decoration: none;
+    border: solid .1em black;
+    border-radius: 2px;
+    padding: 10px 40px;
+}
